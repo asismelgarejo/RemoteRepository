@@ -1,2 +1,6 @@
-#Remote Repository
-An example of how to use the best hosting service for dev projects.
+# TODO list
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS3.
+
+## Features
+* List of daily tasks
